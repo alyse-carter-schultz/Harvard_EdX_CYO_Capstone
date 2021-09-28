@@ -1,4 +1,4 @@
-student_id,race_ethnicity,sex,appalachian_residency,generation,age_at_entry,total_students,graduated,graduated,grad_in_4,grad_in_6
+student_id,race_ethnicity,sex,appalachian_residency,generation,age_at_entry,total_students,graduation_time,graduated,grad_in_4,grad_in_6
 1,white,female,appalachian,gen_unknown,36,1,did_not_graduate,0,0,0
 2,white,male,appalachian,gen_unknown,23,1,did_not_graduate,0,0,0
 3,white,male,non_appalachian,non_first_gen,22,1,did_not_graduate,0,0,0
